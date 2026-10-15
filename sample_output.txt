@@ -1,0 +1,18 @@
+Added 'listen'.
+Added 'silent'.
+Added 'python'.
+
+Dictionary contents:
+- listen: To give attention to sound.
+- silent: Making little or no sound.
+- python: A popular programming language.
+
+Meaning of 'listen': To give attention to sound.
+Updated 'listen'.
+
+Updated meaning of 'listen': To pay attention to what someone says.
+Removed 'silent'.
+
+Dictionary contents:
+- listen: To pay attention to what someone says.
+- python: A popular programming language.
